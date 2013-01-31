@@ -1,0 +1,11 @@
+Program 1 - CSCE 2110
+Implement a class Student containing 5 parameters
+	First Name
+	Last Name
+	ID Number
+	Classification
+	Major
+Each student is stored in an array that can 
+	add - takes all 5 parameters of student class
+	remove - takes 1 int parameter, ID, finds and removes entire object
+ 	print - takes 1 string parameter (ex: firstname) and prints out all occurences
